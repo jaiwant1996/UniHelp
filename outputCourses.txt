@@ -1,0 +1,233 @@
+AAAS: African American &amp; Afr Studies
+AAE: Advanced Academic English
+ABM: Agribusiness Management
+ACC: Accounting
+ACM: Arts and Cultural Management
+ACR: Comm Ag Rec &amp; Res Studies
+ADV: Advertising
+AE: Agricultural Engineering
+AEC: Agricultural Economics
+AEE: ANR Edu &amp; Com Sys
+AESC: Applied Engineering Sciences
+AFR: African Languages
+AFRE: Agr, Food, and Resource Econ
+AIIS: Amer Indian &amp; Indigenous Stdy
+AL: Arts &amp; Letters, College Course
+AMS: American Studies
+ANP: Anthropology
+ANR: Agriculture &amp; Nat Resources
+ANS: Animal Science
+ANT: Anatomy
+ANTR: Human Anatomy
+ANTV: Veterinary Anatomy
+ARB: Arabic
+AS: Aerospace Studies
+ASC: Audiology and Speech Sciences (see CSD)
+ASN: Asian Languages
+AST: Astronomy
+AT: Agricultural Technology
+ATD: Apparel and Textile Design
+ATL: American Thought and Language (see WRA - Fall 2004)
+ATM: Agriculture &amp; Tech System Mgt
+BCH: Biochemistry (see BMB)
+BCM: Building Construction Mgmt (see CMP)
+BE: Biosystems Engineering
+BLD: Biomedical Laboratory Diagnost
+BMB: Biochem &amp; Molecular Biology
+BME: Biomedical Engineering
+BMS: BioMolecular Science
+BOT: Plant Biology (see PLB or PLP)
+BS: Biological Science
+BUS: Business
+CAS: Comm Arts &amp; Sciences
+CE: Civil Engineering
+CEM: Chemistry
+CEP: Counseling, Educ Psy &amp; Spec Ed
+CHE: Chemical Engineering
+CHS: Chinese
+CIC: Committee Instutional Co-op
+CJ: Criminal Justice
+CLA: Classical Studies
+CLS: Chicano/Latino Studies
+CMB: Cell and Molecular Biology
+CMBA: Corporate MBA Program
+CMP: Construction Management Prog
+CMSE: Comp Math,Science,Engineering
+COM: Communication
+CSD: Communicative Sciences and Dis
+CSE: Computer Science &amp; Engineering
+CSP: Cosponsored Study Abroad Prog
+CSS: Crop &amp; Soil Sciences
+CSUS: Community Sustainability
+CSX: Cosponsored Study Abroad Exch
+DAN: Dance
+DH: Digital Humanities
+EAD: Educational Administration
+EC: Economics
+ECE: Electrical &amp; Computer Egr
+ECED: Early Care and Education
+ECSP: Economics Summer Bridge Prog
+ED: Education
+EEP: Environmntl Econ &amp; Policy
+EGR: Engineering
+EM: Emergency Medicine
+EMB: Executive MBA Program
+ENE: Environmental Engineering
+ENG: English
+ENT: Entomology
+EPI: Epidemiology
+ES: Earth Science
+ESA: Envi Studies &amp; Agriscience
+ESL: English As A Second Language
+ESP: Environmental Science &amp; Policy
+FAM: Family Community Services
+FCE: Family and Child Ecology (see HDFS)
+FCM: Family and Community Medicine
+FI: Finance
+FIM: Food Industry Management
+FLM: Film Studies
+FLT: Foreign Language Teaching
+FM: Family Medicine
+FMP: Family Practice
+FOR: Forestry
+FRN: French
+FRS: Forensic Science
+FSC: Food Science
+FSM: Food Systems Econ &amp; Management
+FW: Fisheries and Wildlife
+GBL: General Business-Business Law
+GD: Graphic Design
+GEN: Genetics
+GEO: Geography
+GLG: Geology
+GPI: Great Plains Idea Program
+GRK: Greek
+GRM: German
+GSAH: Global Studies Arts Humanities
+GSP: Global Studies Programs
+GSX: Global Studies Exchange
+GUSP: Global Urban Studies Program
+HA: History of Art
+HB: Hospitality Business
+HCM: Healthcare Management
+HDFS: Human Develop &amp; Family Studies
+HEB: Hebrew
+HEC: Human Ecology
+HED: Human Environment and Design (also see ATD, IDES and RET)
+HM: Human Medicine, College Course
+HNF: Human Nutrition and Foods
+HRLR: Human Resrcs &amp; Labor Relations
+HRT: Horticulture
+HST: History
+IAH: Integrative Studies Arts &amp; Hum
+IBIO: Integrative Biology
+IDES: Interior Design
+IDV: Inter Institutional Studies
+IM: Internal Medicine
+INP: International Programs
+INX: International Exchange
+ISB: Integrative Studies Biological
+ISE: Integrated Science Education
+ISP: Integrative Studies Physical
+ISS: Integrative Studies Social Sci
+ITL: Italian
+ITM: Information Technology Mgmt
+JPN: Japanese
+JRN: Journalism
+JS: Jewish Studies
+KIN: Kinesiology
+KOR: Korean
+LA: Landscape Architecture
+LAW: MSU College of Law
+LB: Lyman Briggs College
+LBS: Lyman Briggs School
+LCS: Large Animal Clinical Sciences
+LIN: Linguistics
+LIR: Labor and Industrial Relations
+LL: Linguistics and Languages
+LLT: Language, Learning &amp; Teaching
+LNG: Foreign Language Transfer
+LTN: Latin
+MBA: Master of Business Admin
+MC: James Madison College
+ME: Mechanical Engineering
+MED: Medicine
+MGT: Management
+MI: Media and Information
+MIC: Microbiology (see MMG)
+MIGS: Mich Intercoll Grad Studies
+MKT: Marketing
+MMG: Microbio &amp; Molecular Genetics
+MS: Military Science
+MSC: Marketing &amp; Supply Chain Mgt (See MKT or SCM)
+MSE: Materials Sci and Engineering
+MSM: Materials Science and Mechanics (see MSE, ME or EGR)
+MT: Medical Technology (see BLD)
+MTH: Mathematics
+MTHE: Mathematics Education
+MUS: Music
+MUSM: Museum Studies
+NEU: Neuroscience
+NOP: Neurology and Ophthalmology
+NSC: Natural Science
+NUR: Nursing
+OGR: Obstet, Gynec &amp; Reprod Biology
+OMM: Osteo Manipulative Medicine
+ORO: Office of the Registrar
+OSS: Osteopathc Surgicl Specialties
+OST: Osteopathic Medicine
+PDC: Planning, Design,&amp; Constructn
+PDI: Pathobiology &amp; Diag Invest
+PED: Pediatrics
+PHD: Pediatrics &amp; Human Development
+PHL: Philosophy
+PHM: Pharmacology and Toxicology
+PHY: Physics
+PIM: Program Integrative Management
+PKG: Packaging
+PLB: Plant Biology
+PLP: Plant Pathology
+PLS: Political Science
+PMR: Physical Medicine &amp; Rehab
+PPL: Public Policy (Dept Pol Sci)
+PRM: Public Resource Management (see EEP)
+PRO: Freshman Seminar
+PRR: Park, Rec &amp; Tourism Res
+PRT: Portuguese
+PSC: Psychiatry
+PSL: Physiology
+PSY: Psychology
+PTH: Pathology
+QB: Quantitative Biology
+RAD: Radiology
+RCAH: Resdntl Coll in Arts &amp; Humanit
+RD: Resource Development
+REL: Religious Studies
+RET: Retailing
+ROM: Romance Languages
+RUS: Russian
+SCM: Supply Chain Management
+SCS: Small Animal Clinical Sciences
+SME: Science &amp; Math Ed (see MTHE)
+SOC: Sociology
+SPN: Spanish
+SSC: Social Science
+STA: Studio Art
+STT: Statistics and Probability
+SUR: Surgery
+SW: Social Work
+SYS: Systems Science
+TC: Telecommunication
+TCC: Transcollegiate Courses
+TE: Teacher Education
+THR: Theatre
+TSM: Technology Systems Management
+UGS: Undergraduate Studies
+UNIV: University
+UP: Urban Planning
+VIPP: Visitng Intl Professional Prog
+VM: Veterinary Medicine, Coll Crse
+WRA: Writing, Rhet &amp; Amer Cultures
+WS: Women&#39;s Studies
+YD: Youth Development
+ZOL: Zoology (see IBIO)

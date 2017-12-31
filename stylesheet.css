@@ -1,0 +1,24 @@
+
+h1{
+    padding: 5%;
+}
+
+input{
+    align-content: center;
+}
+
+body {
+
+    background-repeat: no-repeat;
+    margin: auto;
+    background-size: cover;
+    vertical-align: middle;
+    background-image: url("bg2.jpg");
+    color:black;
+}
+
+
+
+input{
+    padding: 10px;
+}
