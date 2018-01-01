@@ -1,6 +1,12 @@
 
+
+ul {
+    list-style-type: none;
+    margin: 1%;
+}
+
 h1{
-    padding: 5%;
+    padding: 2%;
 }
 
 input{
@@ -10,24 +16,82 @@ input{
 }
 
 body {
-
+    color: white;
     background-repeat: no-repeat;
     margin: auto;
     background-size: cover;
     vertical-align: middle;
     background-image: url("bg2.jpg");
-    color:black;
+
+    font-family: 'Raleway', sans-serif;
 }
 
+.color:hover
+{
+    background: rgba(0, 0, 0, 0.44);
+
+}
+
+li:hover{
+    background: rgba(0, 0, 0, 0.44);
+    color: white;
+    opacity: 0.5;
+}
+
+
 li{
-    margin: auto !important;
-    width: 50% !important;
-    padding: 10px !important;
+
+    width: 40% !important;
+
+    padding: 0.3% !important;
     font-size: 2em;
+    border: darkblue;
+    border-left: solid;
+    border-radius: 11px;
+    margin: auto ;
+    margin-bottom: 0.3%;
+    margin-top: 0.3%;
+    background-color: rgba(1, 59, 97, 0.59);
+    color: black;
 
 }
 
 
 input{
     padding: 10px;
+}
+
+.wrapper{
+    text-align: center;
+    padding: 1%;
+}
+
+#button-todd{
+    padding: 1%;
+
+    //border-left: solid;
+
+    border-bottom: solid;
+    //border-right: solid;
+    width: auto;
+    margin: auto;
+    border-radius: 11px;
+    display: inline-block;
+
+}
+
+#button-todd:hover{
+    color: black;
+}
+
+.modal{
+    color: black;
+}
+
+hr.style18 {
+    height: 30px;
+    border-style: solid;
+    border-color: #020101;
+    border-width: 0px 0px 1px 0;
+    border-radius: 20px;
 }

@@ -13,13 +13,47 @@
 
     <link rel="stylesheet" href="stylesheet.css?v=<?=time();?>">
 
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
 
-
+    <link href="https://fonts.googleapis.com/css?family=Raleway" rel="stylesheet">
 
 
 </head>
 <body>
-<br><br><br>
+
+
+<div class="wrapper">
+    <div id="button-todd">
+        <!-- Trigger the modal with a button -->
+        <button type="button" class="btn btn-info btn-lg" data-toggle="modal" data-target="#myModal">About this Website</button>
+    </div>
+</div>
+
+
+
+<!-- Modal -->
+<div id="myModal" class="modal fade color" role="dialog">
+    <div class="modal-dialog">
+
+        <!-- Modal content-->
+        <div class="modal-content">
+            <div class="modal-header">
+                <button type="button" class="close" data-dismiss="modal">&times;</button>
+                <h4 class="modal-title">UniHelp - University Helper</h4>
+            </div>
+            <div class="modal-body">
+                <p>This website is for students who want to connect with there classmates anonymously.</p>
+                <p>Click on any course to connect with your fellow classmates.</p>
+            </div>
+            <div class="modal-footer">
+                <button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
+            </div>
+        </div>
+
+    </div>
+</div>
+
+<hr class="style18">
 
 <h1 align="center">A great way to collaborate and study with your classmates anonymously.</h1>
 <h2 align="center">Start by typing a course name or code.</h2>
@@ -35,7 +69,7 @@
     <input type="text" class="fuzzy-search" />
     -->
 
-    <input class="form-control input-lg fuzzy-search" id="inputlg" type="text">
+    <input class="form-control input-lg fuzzy-search" id="inputlg" type="text" name="main-search">
     <ul class="list">
 
         <?php
@@ -50,7 +84,7 @@
         foreach($eachlines as $lines) { //add php code here
 
             echo <<<EOT
-<li><p class="name">
+<li><p class="name circle">
 EOT;
 
             echo $lines;
@@ -67,24 +101,11 @@ EOT;
         echo "change";
         ?>
 
-
-        <li><p class="name">Guybrush Threepwood</p></li>
-        <li><p class="name">Elaine Marley</p></li>
-        <li><p class="name">LeChuck</p></li>
-        <li><p class="name">Stan</p></li>
-        <li><p class="name">Voodoo Lady</p></li>
-        <li><p class="name">Herman Toothrot</p></li>
-        <li><p class="name">Meathook</p></li>
-        <li><p class="name">Carla</p></li>
-        <li><p class="name">Otis</p></li>
-        <li><p class="name">Rapp Scallion</p></li>
-        <li><p class="name">Rum Rogers Sr.</p></li>
-        <li><p class="name">Men of Low Moral Fiber</p></li>
-        <li><p class="name">Murray</p></li>
-        <li><p class="name">Cannibals</p></li>
     </ul>
 
 </div>
+
+
 
 
 
@@ -94,9 +115,10 @@ EOT;
 
     var monkeyList = new List('test-list', {
         valueNames: ['name'],
-        page: 10,
+        page: 50,
         pagination: true
     });
+
 
 </script>
 
