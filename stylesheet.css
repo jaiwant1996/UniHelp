@@ -4,7 +4,9 @@ h1{
 }
 
 input{
-    align-content: center;
+    text-align: center;
+    font-size: 200% !important;
+    text-transform: uppercase;
 }
 
 body {
@@ -17,6 +19,12 @@ body {
     color:black;
 }
 
+li{
+    margin: auto;
+    width: 50%;
+    border: 3px solid green;
+    padding: 10px;
+}
 
 
 input{
