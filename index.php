@@ -44,6 +44,8 @@
             <div class="modal-body">
                 <p>This website is for students who want to connect with there classmates anonymously.</p>
                 <p>Click on any course to connect with your fellow classmates.</p>
+                <p>Currently, only for Michigan State University </p>
+                <p class="under"><em>||Still Under Construction||</em></p>
             </div>
             <div class="modal-footer">
                 <button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
@@ -55,7 +57,7 @@
 
 <hr class="style18">
 
-<h1 align="center">A great way to collaborate and study with your classmates anonymously.</h1>
+<h1 align="center"> Anonymously collaborate and study with your classmates.</h1>
 <h2 align="center">Start by typing a course name or code.</h2>
 
 
@@ -98,7 +100,6 @@ EOT;
         }
         echo $html;
 
-        echo "change";
         ?>
 
     </ul>
